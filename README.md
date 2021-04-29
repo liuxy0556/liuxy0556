@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.yezihaohao.vercel.app/api?username=yezihaohao&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=true&bg_color=FFFFFF" align="right" />
+
+### 你好，我是 liuxy0556 👋
+
+#### 你还可以用下面的方式找到我
+
+- 📫 个人邮箱: liuxy0556@qq.com
+- 💬 个人微信: liuxy0556
+
+> Easier said than done.
+
