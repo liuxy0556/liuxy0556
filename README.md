@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **liuxy0556/liuxy0556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img src="https://github-readme-stats.yezihaohao.vercel.app/api?username=yezihaohao&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=true&bg_color=FFFFFF" align="right" />
 
