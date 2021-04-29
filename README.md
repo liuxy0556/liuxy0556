@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=liuxy0551&show_icons=true&count_private=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=liuxy0551&show_icons=true&count_private=false" align="right" />
 
 ### 你好，我是 liuxy0551 👋
 
