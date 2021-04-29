@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.liuxy0551.vercel.app/api?username=liuxy0551&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=true&bg_color=FFFFFF" align="right" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuxy0551&layout=compact)](https://github.com/liuxy0551/koa-app)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liuxy0551&hide=issues&show_icons=true)
 
 ### 你好，我是 liuxy0551 👋
 
