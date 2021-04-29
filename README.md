@@ -4,7 +4,7 @@
 
 #### 你还可以用下面的方式找到我
 
-- 🔭 个人网站：https://liuxianyu.cn
+- 🔭 个人网站： <a href="https://liuxianyu.cn" target="_black">https://liuxianyu.cn</a>
 - 📫 个人邮箱：liuxy0551@qq.com
 - 💬 个人微信：liuxy0551
 
